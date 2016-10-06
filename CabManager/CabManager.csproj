@@ -105,6 +105,7 @@
     </Compile>
   </ItemGroup>
   <ItemGroup>
+    <None Include="Release.rar" />
     <None Include="Resources\extract_love.png" />
   </ItemGroup>
   <ItemGroup>
