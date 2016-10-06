@@ -8,3 +8,6 @@ Windows CE Cab Manager for editing old class ce mobile installer file.
 
 #Note
 >For now create,delete and rename operations not able.
+
+#Released
+>You can find working release version on Release.rar
