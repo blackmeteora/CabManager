@@ -94,7 +94,6 @@
       <DependentUpon>Resources.resx</DependentUpon>
       <DesignTime>True</DesignTime>
     </Compile>
-    <None Include="bin\Release\CabManager.vshost.exe.manifest" />
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
       <LastGenOutput>Settings.Designer.cs</LastGenOutput>
@@ -125,11 +124,6 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="1470748527_cab.ico" />
-    <Content Include="bin\Release\CabManager.exe" />
-    <Content Include="bin\Release\CabManager.pdb" />
-    <Content Include="bin\Release\CabManager.vshost.exe" />
-    <Content Include="bin\Release\Microsoft.Deployment.Compression.Cab.dll" />
-    <Content Include="bin\Release\Microsoft.Deployment.Compression.dll" />
     <Content Include="Libraries\Microsoft.Deployment.Compression.Cab.dll" />
     <Content Include="Libraries\Microsoft.Deployment.Compression.dll" />
   </ItemGroup>
